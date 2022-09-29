@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+footer {
+    text-align: center;
+    position: bottom;
+    background-color: beige;
+    bottom: 0%;
+    padding: 20px;
+    
+
+}
+h1 {
+    font-style:normal;
+    color:blue
+    
+}
+.one,.zero,.two,.three,.four,.five {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    
+}
